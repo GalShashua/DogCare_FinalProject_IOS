@@ -1,0 +1,6 @@
+framework module Pods_DogCare {
+  umbrella header "Pods-DogCare-umbrella.h"
+
+  export *
+  module * { export * }
+}
